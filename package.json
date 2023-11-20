@@ -1,0 +1,11 @@
+{
+  "name": "iniciandoconexpres",
+  "version": "1.0.0",
+  "description": "\"# trabajando-con-express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
